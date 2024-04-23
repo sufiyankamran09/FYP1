@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 import product1 from "../../public/Product1.svg";
 import product2 from "../../public/product2.svg";
-import product3 from "../../public/Product3.svg";
+import product3 from "../../public/product3.svg";
 
 export const Grid = () => {
   return (
